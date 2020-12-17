@@ -1,3 +1,3 @@
 # Deneme
 
-### Deneme amaçlı eklendi
+### Deneme amaçlı eklenmiştir.
